@@ -6,7 +6,7 @@ input > weight > hidden layer 1 (activation function) > weights >
 hidden layer 2 (activation function) > weights > output layer
 
 compare output to intended output > cost function (cross entropy)
-optimization function  (optimizer) > minimize cost (AtomOptimizer)
+optimization function  (optimizer) > minimize cost (AdamOptimizer)
 
 backpropagation
 
